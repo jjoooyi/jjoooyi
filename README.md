@@ -3,12 +3,12 @@
 <div align = "center"> 
 🍒🍒
 <br><br>
-✨ Hello, I'm Jooyi, a growing developer. 🌱<br>
+✨ Hello, I'm Jooyi, a growing developer. 🌱 <br>
 
 
 <br>
 
-●●●
+●●●●
 
   
 <br>
