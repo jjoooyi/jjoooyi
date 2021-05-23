@@ -3,7 +3,7 @@
 <div align = "center"> 
 🍒🍒
 <br><br>
-✨ Hello, I'm Jooyi, a growing developer. 🌱 <br>
+✨ Hello, I'm Jooyi, a growing developer.🌱 <br>
 
 
 <br>
@@ -31,8 +31,6 @@
   
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br>
-
-<h4>✏Learning✏</h4>
 
 </p>
 </div>
