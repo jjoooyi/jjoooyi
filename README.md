@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
  
 <div align = "center">
-🍒🍒
+🍒🍒 
 <br><br>
 ✨ Hello, I'm Jooyi, a growing developer.🌱 <br>
 
